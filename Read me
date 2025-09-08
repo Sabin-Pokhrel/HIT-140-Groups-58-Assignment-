@@ -1,0 +1,9 @@
+FinalCode_HIT140_Assessment2_InvestigationA_final.ipynb is our final programming code and dataset1.csv and dataset2.csv are two data sets, 
+we need to download all this three files and install all the libires susch as 
+pandas
+numpy
+matplotlib
+scipy
+pathlib
+
+Note: Initial code (file) has nothing to do with this now, its only used as reference in group as it was group project.
